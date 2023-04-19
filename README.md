@@ -12,5 +12,7 @@ Then it prompts you to press enter to close.
 
 <h2>NBA Statistics</h2>
 <h2>Currency Converter</h2>
-<h2>Resources Used:</h2>
-- <b>YouTube Channel:</b> [TechWithTim](https://www.youtube.com/watch?v=txKBWtvV99Y&ab_channel=TechWithTim) <br>
+<h2>Resources Used</h2>
+
+- <b>YouTube Channel:</b> [TechWithTim](https://www.youtube.com/watch?v=txKBWtvV99Y&ab_channel=TechWithTim)
+- <b>GitHub:</b> [TechWithTim](https://github.com/techwithtim/3-Mini-Python-Projects-For-Intermediates/tree/main)
