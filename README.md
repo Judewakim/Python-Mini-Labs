@@ -12,3 +12,5 @@ Then it prompts you to press enter to close.
 
 <h2>NBA Statistics</h2>
 <h2>Currency Converter</h2>
+<h2>Resources Used:</h2>
+<b>TechwithTim: </b>https://www.youtube.com/watch?v=txKBWtvV99Y&ab_channel=TechWithTim
